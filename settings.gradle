@@ -1,0 +1,2 @@
+rootProject.name = "Epsilon4"
+include "Client","Debug","Loader"

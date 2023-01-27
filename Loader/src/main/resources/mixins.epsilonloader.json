@@ -1,0 +1,6 @@
+{
+  "plugin": "club.eridani.epsilon.client.launch.MixinPlugin",
+  "required": false,
+  "package": "club.eridani.epsilon.client.mixin.mixins",
+  "compatibilityLevel": "JAVA_8"
+}
